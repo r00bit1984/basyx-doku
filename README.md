@@ -1,7 +1,7 @@
 ---
+icon: lock
 description: SWE-Projekt im 3. & 4. Semester
 noRobotsIndex: true
-icon: lock
 cover: >-
   https://wiki.eclipse.org/images/thumb/5/5b/BaSyx.Architecture_Overview.png/2048px-BaSyx.Architecture_Overview.png
 coverY: -132
@@ -31,6 +31,7 @@ layout:
 * Lukas Gagstatter
 * Francesco Intorre
 * Jannik Zobel
+* Robert Limberger
 
 ## Zielsetzung
 
