@@ -1,5 +1,5 @@
 ---
-icon: lock
+icon: house
 description: SWE-Projekt im 3. & 4. Semester
 noRobotsIndex: true
 cover: >-
