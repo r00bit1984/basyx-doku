@@ -1,14 +1,18 @@
 ---
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
+description: SWE-Projekt im 3. & 4. Semester
+noRobotsIndex: true
+icon: lock
+cover: >-
+  https://wiki.eclipse.org/images/thumb/5/5b/BaSyx.Architecture_Overview.png/2048px-BaSyx.Architecture_Overview.png
+coverY: -132
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -30,6 +34,4 @@ layout:
 
 ## Zielsetzung
 
-Für dieses Projekt im 3. und 4. Semester an der DHBW Stuttgart soll ein Plugin für die Software _Basyx_ geschrieben werden
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td><a href=".gitbook/assets/1.png">1.png</a></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td><a href=".gitbook/assets/2.png">2.png</a></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td><a href=".gitbook/assets/3.png">3.png</a></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+Für dieses Projekt im 3. und 4. Semester an der DHBW Stuttgart soll ein Plugin für die Software _Basyx_ geschrieben werden.
