@@ -32,6 +32,7 @@ layout:
 * Francesco Intorre
 * Jannik Zobel
 * Robert Limberger
+* Jhilmar Pardo
 
 ## Zielsetzung
 
