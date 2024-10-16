@@ -1,5 +1,6 @@
 ---
 description: Dieses Kapitel befasst sich mit der Organisation und den benutzen Hilfsmittel.
+icon: sitemap
 ---
 
 # Organisation
