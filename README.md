@@ -23,7 +23,7 @@ layout:
 
 # Basyx Security Plugin
 
-## Teilnehmer (Team 4)
+## Teilnehmer (Team 1)
 
 * Felix Paul Uhlig
 * Tobias Wiedemann
