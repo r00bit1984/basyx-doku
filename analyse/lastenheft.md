@@ -1,3 +1,7 @@
+---
+icon: folder-grid
+---
+
 # Lastenheft
 
 ## Lastenheft
