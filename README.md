@@ -5,20 +5,7 @@ noRobotsIndex: true
 cover: >-
   https://wiki.eclipse.org/images/thumb/5/5b/BaSyx.Architecture_Overview.png/2048px-BaSyx.Architecture_Overview.png
 coverY: -132
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+layout: landing
 ---
 
 # Basyx Security Plugin
