@@ -2,8 +2,9 @@
 
 ## Home
 
-* [Basyx Security Plugin](README.md)
-* [Organisation](home/organisation.md)
+* [Richtlinien](README.md)
+* [Basyx Security Plugin](<README (1).md>)
+* [Organisation](organisation.md)
 
 ## Analyse
 

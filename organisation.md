@@ -1,6 +1,6 @@
 ---
-icon: sitemap
 description: Dieses Kapitel befasst sich mit der Organisation und den benutzen Hilfsmittel.
+icon: sitemap
 ---
 
 # Organisation
@@ -9,7 +9,7 @@ description: Dieses Kapitel befasst sich mit der Organisation und den benutzen H
 
 Es wird ein Kanban-Board auf GitHub erstellt. Hierbei werden die Spalten "Todo", "In Progress" und "Done" benutzt. Auf diesem kann mit Hilfe von GitHub-Issues Aufgaben erstellen. Diese können Personen zugewiesen werden und es können nähere Details als Kommentar folgen.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Das Kanban-Board bei Beginn des Projekts</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Das Kanban-Board bei Beginn des Projekts</p></figcaption></figure>
 
 ### Issues
 
