@@ -1,7 +1,9 @@
 # Table of contents
 
+## Home
+
 * [Basyx Security Plugin](README.md)
-* [Organisation](organisation.md)
+* [Organisation](home/organisation.md)
 
 ## Analyse
 
