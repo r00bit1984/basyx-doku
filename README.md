@@ -5,7 +5,6 @@ noRobotsIndex: true
 cover: >-
   https://wiki.eclipse.org/images/thumb/5/5b/BaSyx.Architecture_Overview.png/2048px-BaSyx.Architecture_Overview.png
 coverY: -132
-layout: landing
 ---
 
 # Basyx Security Plugin
