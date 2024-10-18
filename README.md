@@ -16,7 +16,7 @@ coverY: -132
 * Moritz Greiner
 * Lukas Gagstatter
 * Francesco Intorre
-* Jannik Zobel
+* Jannik
 * Robert Limberger
 * Jhilmar Pardo
 
