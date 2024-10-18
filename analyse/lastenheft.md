@@ -12,153 +12,141 @@ Verantwortlich: Lukas
 
 ### Changelog
 
-| _Version_ | _Date_     | _Author_              | _Comment_                                                                           |
-| --------- | ---------- | --------------------- | ----------------------------------------------------------------------------------- |
-| 0.1       | 04.10.2024 | Felix, Moritz, Jannik | Created, first draft                                                                |
-| 0.2       | 17.10.2024 | Lukas, Jannik         | Goal, Product Usage, Business Processes, Use Case, Requirements, Product Data added |
+| _Version_ | _Date_     | _Author_      | _Comment_                                                                           |
+| --------- | ---------- | ------------- | ----------------------------------------------------------------------------------- |
+| 0.1       | 04.10.2024 | Felix         | Created, first draft                                                                |
+| 0.2       | 17.10.2024 | Lukas, Jannik | Goal, Product Usage, Business Processes, Use Case, Requirements, Product Data added |
 
-### Goal
+### Ziel
 
 Ziel dieses Projekts ist die Entwicklung eines Security-Plugins für das BaSyx-UI. Dieses soll mit Unterstützung von rollenbasierten Zugriffssteuerungen zur Verwaltung von Zugangsrichtlinien für einzelne AAS-Elemente erfolgen.
 
-### Product Environment
+### Produktumgebung
 
 BaSyx-Umgebung beschreiben: Zweck --> von BaSyx auf die Verwaltungsschale überleiten und erklären
 
-### Product Usage
+### Produktverwendung
 
 Die folgenden Business Processes und Use Cases beschreiben die Funktionen die das System unterstützen soll.
 
-### Business Processes
+### Geschäftsprozesse
 
-#### \<BP.001>: Rollen neu vergeben, verwalten und konfigurieren
+#### \<BP.001>: Verwaltung und Konfiguration von Rollen
 
-| Auslösendes Ereignis: | Der Administrator möchte Rollen neu vergeben, konfigurieren und verwalten                                                   |
+| Auslösendes Ereignis: | Der Administrator möchte Rollen konfigurieren und verwalten                                                                 |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | Resultat:             | Der Administrator kann in einem speziellen Bereich die Rollen für sämtliche Benutzer vergeben, konfigurieren und verwalten. |
 | Involvierte Rollen:   | Administrator                                                                                                               |
 
-#### \<BP.002>: Rechtezuweisungen konfigurieren
+#### \<BP.002>: Konfiguration von Zugriffsrechten und Berechtigungsstrukturen
 
 | Auslösendes Ereignis: | Der Administrator möchte den Rollen Berechtigungen zuweisen                                                            |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | Resultat:             | Der Administrator kann in einem speziellen Bereich die Berechtigungen für sämtliche Rollen vergeben und konfigurieren. |
 | Involvierte Rollen:   | Administrator                                                                                                          |
 
-#### \<BP.003>: Identitäten verwalten und zu Rollen zuordnen
+#### \<BP.003>: Verwaltung von Benutzeridentitäten und Rollenbasierter Zugriffssteuerung
 
-| Auslösendes Ereignis: | Der Administrator möchte den Rollen Berechtigungen zuweisen                                                             |
-| --------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Resultat:             | Der Administrator kann in einem speziellen Bereich die Berechtigungen für sämtliche Rollen vergeben, und konfigurieren. |
-| Involvierte Rollen:   | Administrator                                                                                                           |
+| Auslösendes Ereignis: | Ein Benutzer soll nach dem Login automatisch die für seine Rolle vorgesehenen Berechtigungen erhalten    |
+| --------------------- | -------------------------------------------------------------------------------------------------------- |
+| Resultat:             | Das System vergibt nach der Authentifizierung des Benutzers automatisch die vorgesehenen Berechtigungen. |
+| Involvierte Rollen:   | Administrator                                                                                            |
 
-#### \<BP.004>: Import/Export von Zugangsrichtlinien
+#### \<BP.004>: Verwaltung von Zugangsrichtlinien durch Import und Export
 
 | Auslösendes Ereignis: | Der Administrator möchte Zugangsrichtlinien in Keycloak importieren oder exportieren                                        |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | Resultat:             | Der Administrator über eine Schnittstelle im Keycloak die aktuelle Zugangsrichtline exportieren oder eine neue importieren. |
 | Involvierte Rollen:   | Administrator                                                                                                               |
 
-### Use Cases
+### Anwendungsfälle
 
-#### \<UC.001>: Rollen neu vergeben
+#### \<UC.001>: Rollen konfigurieren
 
-| Verwandter Business Process: | \<BP.001>: Rollen neu vergeben, verwalten und konfigurieren                                                                             |
-| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Eintrittsfall:               | Der Administrator möchte einem neuen Benutzer eine neue Rolle zuweisen.                                                                 |
-| Systemgrenzen:               | Die Konfigurationen in Keycloak.                                                                                                        |
-| Vorbedingung:                | Der konfigurierende Benutzer muss im System authentifiziert sein und über administrative Berechtigungen verfügen.                       |
-| Erfolgskriterium:            | Die neu vergebene Rolle ist in Keycloak hinterlegt und der betroffene Benutzer kann auf die entsprechenden Berechtigungen zurückgreifen |
-| Involvierte Benutzer:        | Administrator und ein Benutzer.                                                                                                         |
-| Auslösendes Ereignis:        | Wenn der Administrator auf der Webseite im Bereich "Security" auf "neue Rolle vergeben" klickt.                                         |
-
-#### \<UC.002>: Rollen konfigurieren
-
-| Verwandter Business Process: | \<BP.001>: Rollen neu vergeben, verwalten und konfigurieren                                                       |
+| Verwandter Business Process: | \<BP.001>: Verwaltung und Konfiguration von Rollen                                                                |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | Eintrittsfall:               | Der Administrator möchte eine neue Rolle konfigurieren.                                                           |
 | Systemgrenzen:               | Die Konfigurationen in Keycloak.                                                                                  |
 | Vorbedingung:                | Der konfigurierende Benutzer muss im System authentifiziert sein und über administrative Berechtigungen verfügen. |
 | Erfolgskriterium:            | Die neu konfigurierte Rolle ist in Keycloak hinterlegt und die Änderungen an der Rolle wurden wirksam.            |
-| Involvierte Benutzer:        | Administrator.                                                                                                    |
+| Involvierte Benutzer:        | Administrator                                                                                                     |
 | Auslösendes Ereignis:        | Wenn der Administrator auf der Webseite im Bereich "Security" auf " Rolle konfigurieren" klickt.                  |
 |                              |                                                                                                                   |
 
-#### \<UC.003>: Rollen verwalten
+#### \<UC.002>: Rollen verwalten
 
-| Verwandter Business Process: | \<BP.001>: Rollen neu vergeben, verwalten und konfigurieren                                                       |
+| Verwandter Business Process: | \<BP.001>: Verwaltung und Konfiguration von Rollen                                                                |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | Eintrittsfall:               | Der Administrator möchte eine bestehende Rolle verwalten.                                                         |
 | Systemgrenzen:               | Die Konfigurationen in Keycloak.                                                                                  |
 | Vorbedingung:                | Der konfigurierende Benutzer muss im System authentifiziert sein und über administrative Berechtigungen verfügen. |
 | Erfolgskriterium:            | Die bearbeitete Rolle ist in Keycloak hinterlegt und die Änderungen wurden wirksam.                               |
-| Involvierte Benutzer:        | Ein Administrator und ein Benutzer.                                                                               |
+| Involvierte Benutzer:        | Administrator und Benutzer                                                                                        |
 | Auslösendes Ereignis:        | Wenn der Administrator auf der Webseite im Bereich "Security" auf "neue Rolle vergeben" klickt.                   |
 |                              |                                                                                                                   |
 
-* **Rollen konfigurieren**: Verwaltung von Rollen für verschiedene Nutzergruppen.
-* **Rechtezuordnungen konfigurieren**: Zugriffskontrollen auf AAS-, Submodell- und Attributebene festlegen.
-* **Identitäten zuordnen und verwalten**: Verwaltung von Nutzeridentitäten und Zuweisung von Rollen.
-* **Import/Export von Zugangsrichtlinien**: Schnittstellen zu Authorisierungs-Servern (z.B. Keycloak) ermöglichen.
+#### \<UC.003>: Zugriffsrechte zuweisen
 
-### Requirements
+| Verwandter Business Process: | \<BP.002>: Konfiguration von Zugriffsrechten und Berechtigungsstrukturen                                          |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Eintrittsfall:               | Der Administrator möchte einer Rolle Zugriffsrechte zuweisen.                                                     |
+| Systemgrenzen:               | Die Konfigurationen in Keycloak.                                                                                  |
+| Vorbedingung:                | Der konfigurierende Benutzer muss im System authentifiziert sein und über administrative Berechtigungen verfügen. |
+| Erfolgskriterium:            | Die konfigurierten Rechte für die Rolle sind wirksam.                                                             |
+| Involvierte Benutzer:        | Administrator                                                                                                     |
+| Auslösendes Ereignis:        | Wenn der Administrator auf der Webseite im Bereich "Security" auf "Berechtigungen konfigurieren" klickt.          |
+|                              |                                                                                                                   |
 
-#### /REQ10/ Import server
+#### \<UC.004>: Rollen für Identitäten zuweisen
 
-The webpage should be able to import a server by its URL and display its content.
+| Verwandter Business Process: | \<BP.003>: Verwaltung von Benutzeridentitäten und Rollenbasierter Zugriffssteuerung                                                                                                                                                               |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Eintrittsfall:               | Das Identitätsmanagement wird von einem Identitätsanbieter (Keycloak) durchgeführt. Der IdP stellt ein Access Token zur Verfügung, das für den AAS-Server relevante Angaben enthält. Das Token (JWT, JSON Web Token) wird vom IdP signiert. Jeder |
+| Systemgrenzen:               | Die Konfigurationen in Keycloak.                                                                                                                                                                                                                  |
+| Vorbedingung:                | Der konfigurierende Benutzer muss im System authentifiziert sein und über administrative Berechtigungen verfügen.                                                                                                                                 |
+| Erfolgskriterium:            | Die Benutzer bekommen nach dem Einloggen die vorgesehenen Berechtigungen.                                                                                                                                                                         |
+| Involvierte Benutzer:        | Benutzer                                                                                                                                                                                                                                          |
+| Auslösendes Ereignis:        | Wenn der Administrator auf der Webseite im Bereich "Security" auf "Berechtigungen konfigurieren" klickt.                                                                                                                                          |
+|                              |                                                                                                                                                                                                                                                   |
 
-#### /REQ20/ Server validation
+#### \<UC.005>: Zugangsrichtlinien exportieren und importieren
 
-The system shall be able to detect false server-URLs when adding a new server and throw an error to the user.
+| Verwandter Business Process: | \<BP.004>: Verwaltung von Zugangsrichtlinien durch Import und Export                                                                             |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Eintrittsfall:               | Der Administrator möchte aktuelle Zugriffsrichtlinien exportieren oder neue importieren .                                                        |
+| Systemgrenzen:               | Die Konfigurationen in Keycloak.                                                                                                                 |
+| Vorbedingung:                | Der konfigurierende Benutzer muss im System authentifiziert sein und über administrative Berechtigungen verfügen.                                |
+| Erfolgskriterium:            | Die Zugangsrichtlinien wurden vollständig und richtig importiert oder exportiert .                                                               |
+| Involvierte Benutzer:        | Administrator                                                                                                                                    |
+| Auslösendes Ereignis:        | Wenn der Administrator auf der Webseite im Bereich "Security" auf "Zugangsrichtlinien importieren" oder "Zugangsrichtlinien exportieren" klickt. |
+|                              |                                                                                                                                                  |
 
-#### /REQ30/ Error handling
+### Voraussetzungen
 
-The system shall be able to handle errors (no entries found, unexpected errors, false server-ULR, ...)
+#### /REQ10/ Policy-Speicherung
 
-and throw an error to the user.
+Die Policy-Speicherung muss eine effiziente und zuverlässige Verwaltung von Zugangsrichtlinien gewährleisten.
 
-#### /REQ40/ Display content in a clear way
+#### /REQ20/ Policy-Abbildung
 
-The entries including the digital twins are shown in a clear and readable way as a list one entry under the other while more information can be seen when clicking on the asset.
+Die Policy-Abbildung muss sicherstellen, dass Zugangsrichtlinien klar und konsistent auf die entsprechenden Ressourcen, Benutzer und Rollen im System abgebildet werden.
 
-#### /REQ50/ Display digital twin
+#### /REQ30/ Policy-Entscheidung
 
-The user should be able to see more information about the digital twin.
+Die Policy-Entscheidung muss sicherstellen, dass das System auf Basis vordefinierter Zugangsrichtlinien automatisch Entscheidungen über den Zugriff auf Ressourcen trifft.
 
-#### /REQ60/ Sort by year
+### Nicht-funktionale Voraussetzungen
 
-The user should be able to sort the displayed assets by manufacturing year.
+Dieser Abschnitt beschreibt die bereits bekannten nicht-funktionalen Anforderungen an das Produkt.
 
-#### /REQ70/ Filter for manufacturer
+#### /NF10/ Intuitive Konfiguration von Rollen und Rechten
 
-The user should be able to filter the assets by manufacturer.
+Die intuitive Konfiguration von Rollen und Rechten erfordert, dass das System eine leicht verständliche Benutzeroberfläche bereitstellt, die es Administratoren und anderen befugten Benutzern ermöglicht, Zugriffsrechte und Rollen ohne tiefgehende technische Kenntnisse zu verwalten.
 
-#### /REQ80/ Search for digital twin
+#### /NF20/ Benutzerfreundliche Oberfläche zur Verwaltung von Identitäten
 
-The user should be able to search for digital twins by entering the name of the asset.
+Das System muss eine benutzerfreundliche Oberfläche zur Verwaltung von Identitäten bereitstellen, die es Administratoren und befugten Benutzern ermöglicht, Identitäten einfach zu erstellen, zu bearbeiten, zu deaktivieren oder zu löschen. Die Oberfläche soll klar strukturiert und intuitiv zu bedienen sein, sodass auch Benutzer ohne technische Expertise die Identitätsverwaltung effizient durchführen können.
 
-### Product Data
+#### /NF30/ Einfacher Import/Export von Zugangsrichtlinien.
 
-### /LD10/ Data
-
-The data displayed in the webpage is delivered through an AAS-Server with REST-Calls. There is no functionality to export data or import other data than an AAS-Server by its URL.
-
-### Other Product Characteristics
-
-This section describes the already known non-functional requirements for the product.
-
-#### /NF10/ Intuitive GUI
-
-The webpage shall display a graphical user interface (GUI) to the user. This GUI must display every function provided to the user in a simple and intuitive way. It will be the only way to interact with the application.
-
-#### /NF20/ Browser
-
-The webpage shall work in every Browser supporting the HTML 5 standard.
-
-#### /NF30/ Efficiency
-
-The webpage shall add servers and apply filters in the fastest way possible as well as the user being able to find desired results with the lowest possible amount of steps.
-
-#### /NF40/ Usability
-
-A user searching a specific product shall find that product as fast as possible, intuitively know how the webpage works and there shall be enough online documentation for new users. No further training or experience is required.
+Das System muss die Möglichkeit bieten, Zugangsrichtlinien einfach und effizient zu importieren und zu exportieren. Dieser Vorgang sollte über eine benutzerfreundliche Oberfläche erfolgen, die klar strukturierte Schritte zur Auswahl und Durchführung des Imports oder Exports bietet. Es muss sichergestellt sein, dass Administratoren ohne umfangreiche technische Kenntnisse diese Funktion nutzen können.
