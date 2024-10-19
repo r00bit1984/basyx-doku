@@ -26,7 +26,7 @@ _(eXtensible Access Control Markup Language)_
 
 Beispiel:
 
-```XACML
+```html
 <Rule RuleId="f6637b3f-3690-4cce-989c-2ce9c053d6fa" Effect="Deny">
 	<Description>Use it or lose it: this policy denies access if lastLogin is more than 30 days away from today's date</Description>
 	<Target/>
