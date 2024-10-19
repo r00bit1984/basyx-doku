@@ -4,6 +4,8 @@ icon: building-shield
 
 # XACML/ODRL (Policy-Sprachen)
 
+_Bearbeitet von: Jannik und Robert Limberger_
+
 ## XACML
 
 _(eXtensible Access Control Markup Language)_
