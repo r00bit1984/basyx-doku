@@ -10,3 +10,7 @@
 
 * [Lastenheft](analyse/lastenheft.md)
 * [Meetings](analyse/meetings.md)
+
+## Grundlegende Informationen
+
+* [XACML/ODRL (Policy-Sprachen)](grundlegende-informationen/xacml-odrl-policy-sprachen.md)
