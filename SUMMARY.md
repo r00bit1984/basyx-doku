@@ -14,3 +14,7 @@
 ## Grundlegende Informationen
 
 * [XACML/ODRL (Policy-Sprachen)](grundlegende-informationen/xacml-odrl-policy-sprachen.md)
+
+## Entwicklung
+
+* [WebUI für die Entwicklung aufsetzen](entwicklung/webui-fur-die-entwicklung-aufsetzen.md)
