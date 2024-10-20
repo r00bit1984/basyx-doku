@@ -18,7 +18,7 @@ Für diese Anleitung muss das Windows Subsystem for Linux (WSL) aktiviert sein
    `sudo apt install nodejs npm -y`
 4. Über npm yarn installieren:\
    `npm install --global yarn`
-5. Mit Hilfe von git das benötigte Repo klonen:\
+5. Mit Hilfe von git das benötigte Repo klonen (in Ubuntu WSL):\
    `git clone` [`https://github.com/eclipse-basyx/basyx-aas-web-ui.git`](https://github.com/eclipse-basyx/basyx-aas-web-ui.git)
 6. In das geklonte Repo navigieren:\
    `cd basyx-aas-web-ui`
