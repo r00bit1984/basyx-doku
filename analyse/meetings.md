@@ -23,3 +23,7 @@ icon: handshake
   * CRS Lastenheft
 * Aufgaben für nächste Woche (siehe ToDo Liste):
   * einlesen, zusammenfassen und dann vorstellen: Basyx: Tobi, Moritz Keycloak: Felix, Lukas Dokumente "Security": Jhilmar, Francesco XACML und ODRL: Robert, Jannik
+
+## Meeting #2 (21.10.2024)
+
+Einarbeitung in diverse Themen in: [https://github.com/DHBW-TINF23F/Team1-BaSyx-Security-Plugin/tree/main/Einarbeitung](https://github.com/DHBW-TINF23F/Team1-BaSyx-Security-Plugin/tree/main/Einarbeitung)
