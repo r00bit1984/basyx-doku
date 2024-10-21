@@ -26,4 +26,19 @@ icon: handshake
 
 ## Meeting #2 (21.10.2024)
 
-Einarbeitung in diverse Themen in: [https://github.com/DHBW-TINF23F/Team1-BaSyx-Security-Plugin/tree/main/Einarbeitung](https://github.com/DHBW-TINF23F/Team1-BaSyx-Security-Plugin/tree/main/Einarbeitung)
+Einarbeitung in diverse Themen: [https://github.com/DHBW-TINF23F/Team1-BaSyx-Security-Plugin/tree/main/Einarbeitung](https://github.com/DHBW-TINF23F/Team1-BaSyx-Security-Plugin/tree/main/Einarbeitung)
+
+Nächstes Meeting: Fr 25.10.&#x20;
+
+Wichtiges zum festhalten:&#x20;
+
+Fragen: Präsentation am 15.11 nur über SRS?&#x20;
+
+Agenda:
+
+* Vorstellung der Gruppeneinarbeitung:
+  * Basyx Einführung
+    * Keycloak
+    * Basyx Security Dokumente Github
+    * XACML / ODRL
+* Verbindung Keycloak mit Basyx angeschaut, ToDo erstellt für weiteres\
