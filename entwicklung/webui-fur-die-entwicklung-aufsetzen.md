@@ -8,6 +8,8 @@ icon: brackets-curly
 
 {% hint style="info" %}
 Für diese Anleitung muss das Windows Subsystem for Linux (WSL) aktiviert sein
+
+Falls die Installation von Nodejs mit dieser Methode nicht funktioniert: https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl
 {% endhint %}
 
 1. WSL mit Ubuntu als Distro installieren (im Windows Terminal):\
