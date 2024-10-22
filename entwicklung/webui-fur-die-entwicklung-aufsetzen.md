@@ -4,7 +4,7 @@ icon: brackets-curly
 
 # WebUI für die Entwicklung aufsetzen
 
-## Installtion
+## Installation
 
 ### Windows (WSL)
 
