@@ -17,8 +17,5 @@
 
 ## Entwicklung
 
-* [WebUI für die Entwicklung aufsetzen (Über Yarn, ohne Plugins)](entwicklung/webui-fur-die-entwicklung-aufsetzen-uber-yarn-ohne-plugins.md)
-
-***
-
-* [WebUI für die Entwicklung aufsetzen (Über Docker, mit Plugins)](webui-fur-die-entwicklung-aufsetzen-uber-docker-mit-plugins.md)
+* [WebUI für die Entwicklung aufsetzen (Yarn)](entwicklung/webui-fur-die-entwicklung-aufsetzen-yarn.md)
+* [WebUI für die Entwicklung aufsetzen (Docker)](entwicklung/webui-fur-die-entwicklung-aufsetzen-docker.md)

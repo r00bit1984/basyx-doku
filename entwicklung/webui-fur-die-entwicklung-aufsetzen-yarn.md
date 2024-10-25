@@ -1,5 +1,5 @@
 ---
-icon: brackets-curly
+icon: js
 cover: ../.gitbook/assets/Untitled.png
 coverY: 0
 layout:
@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# WebUI für die Entwicklung aufsetzen (Über Yarn, ohne Plugins)
+# WebUI für die Entwicklung aufsetzen (Yarn)
 
 ## Installation
 
