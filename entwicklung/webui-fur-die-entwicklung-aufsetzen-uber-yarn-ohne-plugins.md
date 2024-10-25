@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# WebUI für die Entwicklung aufsetzen
+# WebUI für die Entwicklung aufsetzen (Über Yarn, ohne Plugins)
 
 ## Installation
 
@@ -41,7 +41,7 @@ Falls die Installation von Nodejs mit dieser Methode nicht funktioniert:  [https
 4. Über npm yarn installieren:\
    `npm install --global yarn`
 5. Mit Hilfe von git das benötigte Repo klonen (in Ubuntu WSL):\
-   `git clone`[`https://github.com/eclipse-basyx/basyx-aas-web-ui.git`](https://github.com/eclipse-basyx/basyx-aas-web-ui.git)
+   `git clone https://github.com/eclipse-basyx/basyx-aas-web-ui`
 6. In das geklonte Repo navigieren:\
    `cd basyx-aas-web-ui`
 7. Das Bootstrap Shell-Skript ausführen:\
