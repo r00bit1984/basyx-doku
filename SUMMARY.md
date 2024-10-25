@@ -17,4 +17,4 @@
 
 ## Entwicklung
 
-* [WebUI für die Entwicklung aufsetzen](entwicklung/webui-fur-die-entwicklung-aufsetzen.md)
+* [WebUI für die Entwicklung aufsetzen (Über Yarn, ohne Plugins)](entwicklung/webui-fur-die-entwicklung-aufsetzen-uber-yarn-ohne-plugins.md)
