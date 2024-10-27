@@ -1,17 +1,25 @@
 ---
 icon: handshake
+description: Zusammenfassungen aller Meetings 2024
 ---
 
 # Meetings
 
-## Meeting #1 (18.10.2024)
+## Meeting #1 (18.10.)
 
-### Wichtiges zum festhalten
+#### Nächstes Meeting:&#x20;
 
-* Alles auf Deutsch
-* Treffen Mo 16.30 online und dann gemachtes vorstellen
+* Mo 21.10. (16.30 Uhr online)
 
-### Agenda
+#### Wichtiges zum festhalten:
+
+* Alles im Projekt und in Dokumentation auf Deutsch
+
+#### Fragen:
+
+* \-
+
+#### Agenda:
 
 * Fragen klären:
   * UI wie ändern da in anderem repo
@@ -24,21 +32,49 @@ icon: handshake
 * Aufgaben für nächste Woche (siehe ToDo Liste):
   * einlesen, zusammenfassen und dann vorstellen: Basyx: Tobi, Moritz Keycloak: Felix, Lukas Dokumente "Security": Jhilmar, Francesco XACML und ODRL: Robert, Jannik
 
-## Meeting #2 (21.10.2024)
+## Meeting #2 (21.10.)
 
-Einarbeitung in diverse Themen: [https://github.com/DHBW-TINF23F/Team1-BaSyx-Security-Plugin/tree/main/Einarbeitung](https://github.com/DHBW-TINF23F/Team1-BaSyx-Security-Plugin/tree/main/Einarbeitung)
+#### Nächstes Meeting:&#x20;
 
-Nächstes Meeting: Fr 25.10.&#x20;
+* Fr 25.10.
 
-Wichtiges zum festhalten:&#x20;
+#### Wichtiges zum festhalten:
 
-Fragen: Präsentation am 15.11 nur über SRS?&#x20;
+* \-
 
-Agenda:
+#### Fragen:&#x20;
+
+* Wie mit Wiki auf GitHub?
+* Wo Beispieldaten um Basyx zu testen?
+
+#### Agenda:
 
 * Vorstellung der Gruppeneinarbeitung:
+  * [https://github.com/DHBW-TINF23F/Team1-BaSyx-Security-Plugin/tree/main/Einarbeitung](https://github.com/DHBW-TINF23F/Team1-BaSyx-Security-Plugin/tree/main/Einarbeitung)
   * Basyx Einführung
-    * Keycloak
-    * Basyx Security Dokumente Github
-    * XACML / ODRL
-* Verbindung Keycloak mit Basyx angeschaut, ToDo erstellt für weiteres\
+  * Keycloak
+  * Basyx Security Dokumente Github
+  * XACML / ODRL
+* Verbindung Keycloak mit Basyx angeschaut, ToDo erstellt für weiteres
+
+## Meeting #3 (25.10.)
+
+#### Nächstes Meeting:
+
+* Mi 30.10.
+
+#### Wichtiges zum festhalten:
+
+* Dokumentation in GitBook, nicht Wiki
+* Beispieldaten Beispielmodelle anschauen und Link (ohne AAS) kopieren
+
+#### Fragen:
+
+* \-
+
+#### Agenda:
+
+* SRS vorstellen
+* Basyx bei allen zum laufen bringen
+* Basyx Code anschauen und verstehen
+
