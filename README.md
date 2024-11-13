@@ -11,15 +11,19 @@ coverY: -132
 
 ## Teilnehmer (Team 1)
 
-* Felix Paul Uhlig
-* Tobias Wiedemann
-* Moritz Greiner
-* Lukas Gagstatter
-* Francesco Intorre
-* Jannik
-* Robert Limberger
-* Jhilmar Pardo
+* Felix U.
+* Tobias W.
+* Moritz G.
+* Lukas G.
+* Francesco I.
+* Jannik Z.
+* Robert L.
+* Jhilmar P.
 
 ## Zielsetzung
 
-Für dieses Projekt im 3. und 4. Semester an der DHBW Stuttgart soll ein Plugin für die Software _Basyx_ geschrieben werden.
+Das Plugin bietet eine benutzerfreundliche Oberfläche zur Konfiguration von Zugriffskontrollen und unterstützt folgende Anwendungsfälle:
+
+* Rollen verwalten und konfigurieren.
+* Rechtezuweisungen auf AAS-, Submodell- und Attributebene (ABAC) konfigurieren.
+* Import/Export von Zugangsrichtlinien für den externen Authorisierungs-Server Keycloak

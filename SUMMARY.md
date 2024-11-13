@@ -5,7 +5,7 @@
 * [Basyx Security Plugin](README.md)
 * [Informationen zur Umsetzung](home/informationen-zur-umsetzung.md)
 * [Organisation](organisation.md)
-* [Richtlinien](<README (1).md>)
+* [Richtlinien (WIP)](home/richtlinien-wip.md)
 
 ## Analyse
 

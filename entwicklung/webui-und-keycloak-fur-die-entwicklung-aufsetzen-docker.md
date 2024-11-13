@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# WebUI für die Entwicklung aufsetzen (Docker)
+# WebUI und Keycloak für die Entwicklung aufsetzen (Docker)
 
 1. Die benötigten Repos (lokal klonen mit `git clone`):\
    [https://github.com/eclipse-basyx/basyx-aas-web-ui](https://github.com/eclipse-basyx/basyx-aas-web-ui)\
@@ -14,11 +14,11 @@ coverY: 0
    `docker build aas-web-ui -t eclipsebasyx/aas-ui:latest`
 3. Die Container starten: (in basyx-java-server-sdk/examples/BaSyxSecured)\
    `docker compose up -d`
-4. Die UI läuft auf Port **3000**, Keycloak auf **9097**
+4. Die UI läuft auf Port `3000`, Keycloak auf `9097`
 5. Wenn Änderungen an der WebUI vorgenommen werden:\
    _(In basyx-java-server-sdk/examples/BaSyxSecured):_\
    `docker compose down`\
    _(In basyx-aas-web-ui/aas-web-ui):_\
-   `docker build aas-web-ui -t eclipsebasyx/aas-ui:latest`\
+   `docker build aas-web-ui -t eclipsebasyx/aas-ui:latest`    \
    _(In basyx-java-server-sdk/examples/BaSyxSecured):_\
    `docker compose up -d`
