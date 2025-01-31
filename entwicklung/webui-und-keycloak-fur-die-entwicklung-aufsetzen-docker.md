@@ -16,9 +16,9 @@ coverY: 0
    `docker compose up -d`
 4. Die UI läuft auf Port `3000`, Keycloak auf `9097`
 5. Wenn Änderungen an der WebUI vorgenommen werden:\
-   _(In basyx-java-server-sdk/examples/BaSyxSecured):_\
+   &#xNAN;_(In basyx-java-server-sdk/examples/BaSyxSecured):_\
    `docker compose down`\
-   _(In basyx-aas-web-ui/aas-web-ui):_\
+   &#xNAN;_(In basyx-aas-web-ui/aas-web-ui):_\
    `docker build aas-web-ui -t eclipsebasyx/aas-ui:latest`    \
-   _(In basyx-java-server-sdk/examples/BaSyxSecured):_\
+   &#xNAN;_(In basyx-java-server-sdk/examples/BaSyxSecured):_\
    `docker compose up -d`

@@ -21,6 +21,6 @@
 * [WebUI für die Entwicklung aufsetzen (Yarn)](entwicklung/webui-fur-die-entwicklung-aufsetzen-yarn.md)
 * [WebUI und Keycloak für die Entwicklung aufsetzen (Docker)](entwicklung/webui-und-keycloak-fur-die-entwicklung-aufsetzen-docker.md)
 
-***
+## Technisches
 
-* [Frontend des Plugins](frontend-des-plugins.md)
+* [Frontend des Plugins](technisches/frontend-des-plugins.md)
