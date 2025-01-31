@@ -23,3 +23,5 @@ Administratoren können die Zugriffsberechtigungen für die Rolle "Administrator
 #### 4. Rollenverwaltung
 
 Administratoren können Rollen im System verwalten, einschließlich dem Hinzufügen, Umbenennen, Bearbeiten und Löschen von Rollen.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>UI unseres Plugins</p></figcaption></figure>
