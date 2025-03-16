@@ -1,6 +1,6 @@
 ---
-icon: handshake
 description: Zusammenfassungen aller Meetings 2024
+icon: handshake
 ---
 
 # Meetings
@@ -134,3 +134,59 @@ description: Zusammenfassungen aller Meetings 2024
 **Agenda:**
 
 * Meeting mit Basyx Team
+
+## Meeting #8 (12.03.)
+
+**Nächstes Meeting:**
+
+* Fr 14.03.
+
+**Wichtiges zum Festhalten:**
+
+* wenn jmd an den MODs was ändern will, oder Ideen hat, mit Tobi drüber sprechen
+* Optionales MOD
+* 27.01 Commit, den wir brauchen um anzufangen
+* API können wir nicht testen wegen Bugs
+* unser Modul eine .vue Datei
+* UI schon von Moritz implementiert, läuft aber komplett mit Hardcode
+* neuer Branch Beta mit WIP UI
+
+**Fragen für nächstes Mal:**
+
+* Wann muss Projekt abgeschlossen sein, wann Endpräsentation
+* Liste mit Rollen und andere Infos wie bekommen oder überhaupt bekommen
+
+**Agenda:**
+
+* alle auf selben Stand bringen
+  * Moritz bisheriger Stand Entwicklung
+  * Tobi MODs
+  * alle, die sonst was gemacht haben
+* anstehende Aufgaben besprechen
+  * MODs
+  * alles entwicklungsbereit machen
+  * coden
+  * Testpläne
+* Zeitplan durchgehen und abändern
+  * wann MODs fertig
+* wann bereit für coden
+
+## Meeting #9 (14.03.)
+
+**Nächstes Meeting:**
+
+* Di 18.03
+
+**Wichtiges zum Festhalten:**
+
+* Zuständige entscheiden bis Di, wer was macht:
+  * MOD 1 -> Moritz
+  * MOD 2 -> Jhilmar
+  * MOD 3 -> Felix
+* 23.05 ist Abschlusspräsentation
+
+### Fragen für nächstes Mal:
+
+Agenda:
+
+* anliegende Aufgaben besprechen
