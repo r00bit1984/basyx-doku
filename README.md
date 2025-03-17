@@ -1,7 +1,7 @@
 ---
-icon: house
 description: SWE-Projekt im 3. & 4. Semester
 noRobotsIndex: true
+icon: house
 cover: >-
   https://wiki.eclipse.org/images/thumb/5/5b/BaSyx.Architecture_Overview.png/2048px-BaSyx.Architecture_Overview.png
 coverY: -132
@@ -20,10 +20,4 @@ coverY: -132
 * Robert L.
 * Jhilmar P.
 
-## Zielsetzung
-
-Das Plugin bietet eine benutzerfreundliche Oberfläche zur Konfiguration von Zugriffskontrollen und unterstützt folgende Anwendungsfälle:
-
-* Rollen verwalten und konfigurieren.
-* Rechtezuweisungen auf AAS-, Submodell- und Attributebene (ABAC) konfigurieren.
-* Import/Export von Zugangsrichtlinien für den externen Authorisierungs-Server Keycloak
+GitHub-Repo: [https://github.com/DHBW-TINF23F/Team1-BaSyx-Security-Plugin](https://github.com/DHBW-TINF23F/Team1-BaSyx-Security-Plugin)
