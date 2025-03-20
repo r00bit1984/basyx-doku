@@ -38,6 +38,8 @@ Die Tests müssen auf verschiedenen Plattformen durchgeführt werden, um sicherz
 2. Navigieren Sie zu der Ansicht, die die Komponente `Security.vue` enthält (Oben Links auf `AAS Viewer` —> `Modules` —> `Security`).
 3. Prüfen Sie, ob die Seite ohne sichtbare Ladeprobleme (ohne weiße Seite oder Fehlermeldungen) dargestellt wird.
 
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Wie Sie das Security-Modul in der BaSyx WebUI erreichen</p></figcaption></figure>
+
 **Kontrolle:**
 
 * Die Seite wird vollständig geladen.
