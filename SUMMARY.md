@@ -21,6 +21,7 @@
 ## Entwicklung
 
 * [WebUI für die Entwicklung aufsetzen](entwicklung/webui-fur-die-entwicklung-aufsetzen-yarn.md)
+* [Systemtestplan mit Erklärungen](entwicklung/systemtestplan-mit-erklarungen.md)
 * [WebUI und Keycloak für die Entwicklung aufsetzen (Docker)](entwicklung/webui-und-keycloak-fur-die-entwicklung-aufsetzen-docker.md)
 
 ## Technisches
