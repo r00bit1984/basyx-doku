@@ -18,9 +18,10 @@
 
 ## Entwicklung
 
-* [WebUI für die Entwicklung aufsetzen](entwicklung/webui-fur-die-entwicklung-aufsetzen.md)
+* [WebUI für die Entwicklung aufsetzen](entwicklung/webui-fur-die-entwicklung-aufsetzen-yarn.md)
 * [WebUI und Keycloak für die Entwicklung aufsetzen (Docker)](entwicklung/webui-und-keycloak-fur-die-entwicklung-aufsetzen-docker.md)
 
 ## Technisches
 
 * [Frontend des Plugins](technisches/frontend-des-plugins.md)
+* [Sicherheitsmodul (Security.vue)](technisches/sicherheitsmodul-security.vue.md)

@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# WebUI für die Entwicklung aufsetzen (Yarn)
+# WebUI für die Entwicklung aufsetzen
 
 ## Installation
 
