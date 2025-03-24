@@ -93,18 +93,20 @@ Beispiel: Wenn ein Feld nur Zahlen akzeptiert und Sie „abc“ eingeben, sollte
 
 **Schritte:**
 
-1. Öffnen Sie die Anwendung auf einem großen Bildschirm (1920x1080), z. B. einem Desktop oder Laptop.
-2. Prüfen Sie, ob alle Elemente klar strukturiert sind und nichts abgeschnitten oder verschoben ist.
-3. Wiederholen Sie den Test auf einem Gerät mit einer kleineren Bildschirmauflösung (1366x768).
-4. Öffnen Sie die Anwendung auf einem Tablet oder Smartphone und prüfen Sie dieselbe Seite.
-5. Wenn kein Smartphone/Tablett zur Verfügung steht: Ändern Sie die Größe des Browserfensters auf eine kleine Breite und beobachten Sie die Änderungen.
-6. Prüfen Sie, ob die Navigation weiterhin nutzbar ist (z. B. ein Menü als „☰“ umgestellt wird).
+* Öffnen Sie die Anwendung auf einem großen Bildschirm (1920x1080), z. B. einem Desktop oder Laptop.
+* Prüfen Sie, ob alle Elemente klar strukturiert sind und nichts abgeschnitten oder verschoben ist.
+* Wiederholen Sie den Test auf einem Gerät mit einer kleineren Bildschirmauflösung (1366x768).
+* Öffnen Sie die Anwendung auf einem Tablet oder Smartphone und prüfen Sie dieselbe Seite.
+  * Wenn kein Smartphone/Tablett zur Verfügung steht: Ändern Sie die Größe des Browserfensters auf eine kleine Breite und beobachten Sie die Änderungen.
+* Prüfen Sie, ob die Navigation weiterhin nutzbar ist (z. B. ein Menü als „☰“ umgestellt wird).
 
 **Kontrolle:**
 
 * Auf allen Bildschirmgrößen sind die Inhalte klar lesbar und vollständig sichtbar.
 * Es gibt keine abgeschnittenen Texte, falsche Abstände oder Fehlanpassungen.
 * Die Navigation, einschließlich Schaltflächen und Links, bleibt auf allen Bildschirmgrößen funktionsfähig.
+
+Siehe Bild:
 
 ***
 
