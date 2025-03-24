@@ -53,6 +53,7 @@ Falls die Installation von Nodejs mit dieser Methode nicht funktioniert:  [https
 12. `Open Folder...`
 13. `aas-web-ui` auswählen
 14. Die WebUI sollte auf [http://localhost:3000/aasviewer](http://localhost:3000/aasviewer) laufen
+15. Zum Schließen: <kbd>CTRL + C</kbd>&#x20;
 
 ### macOS
 
@@ -72,6 +73,7 @@ Es wird davon ausgegangen, dass homebrew ([https://brew.sh/](https://brew.sh/)) 
    `sh bootstrap.sh`
 6. Die erste Frage mit `y` und die zweite mit `n` beantworten&#x20;
 7. Die WebUI sollte auf [http://localhost:3000/aasviewer](http://localhost:3000/aasviewer) laufen
+8. Zum Schließen: <kbd>CTRL + C</kbd> in Ubuntu WSL
 
 ### Linux
 
@@ -91,6 +93,7 @@ Mehr Infos zur Installation: [https://nodejs.org/en/download/package-manager/cur
    `sh bootstrap.sh`
 6. Die erste Frage mit `y` und die zweite mit `n` beantworten&#x20;
 7. Die WebUI sollte auf [http://localhost:3000/aasviewer](http://localhost:3000/aasviewer) laufen
+8. Zum Schließen: <kbd>CTRL + C</kbd>&#x20;
 
 ## WebUI erneut starten
 
