@@ -50,8 +50,9 @@ Falls die Installation von Nodejs mit dieser Methode nicht funktioniert:  [https
 9. Visual Studio Code öffnen
 10. `STRG + SHIFT + P`
 11. `Connect to WSL using Distro > Ubuntu`
-12. `aas-web-ui` auswählen
-13. Die WebUI sollte auf [http://localhost:3000/aasviewer](http://localhost:3000/aasviewer) laufen
+12. `Open Folder...`
+13. `aas-web-ui` auswählen
+14. Die WebUI sollte auf [http://localhost:3000/aasviewer](http://localhost:3000/aasviewer) laufen
 
 ### macOS
 
