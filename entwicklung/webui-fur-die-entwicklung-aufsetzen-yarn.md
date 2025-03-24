@@ -54,6 +54,7 @@ Falls die Installation von Nodejs mit dieser Methode nicht funktioniert:  [https
 13. `aas-web-ui` auswählen
 14. Die WebUI sollte auf [http://localhost:3000/aasviewer](http://localhost:3000/aasviewer) laufen
 15. Zum Schließen: <kbd>CTRL + C</kbd>&#x20;
+16. Um WSL in VSCode zu schließen: Unten Links auf `WSL:Ubuntu` und dann `Close Remote Connection`
 
 ### macOS
 
