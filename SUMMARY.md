@@ -26,5 +26,4 @@
 
 ## Technisches
 
-* [Frontend des Plugins](technisches/frontend-des-plugins.md)
 * [Sicherheitsmodul (Security.vue)](technisches/sicherheitsmodul-security.vue.md)
