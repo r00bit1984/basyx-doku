@@ -28,3 +28,8 @@
 
 * [Sicherheitsmodul (Security.vue)](technisches/sicherheitsmodul-security.vue.md)
 * [Funktionelles Hosting](technisches/funktionelles-hosting.md)
+
+## Rechtlich
+
+* [Impressum](rechtlich/impressum.md)
+* [Datenschutz](rechtlich/datenschutz.md)
