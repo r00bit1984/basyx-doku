@@ -1,11 +1,12 @@
 ---
 beschreibung: Dokumentation für das BaSyx Security Rule Management UI (Security.vue)
+description: Dokumentation über das BaSyx-Modul 'Security'
 icon: lock-keyhole
 ---
 
 # Sicherheitsmodul (PRODUCTION)
 
-## BaSyx Security Plugin Frontend – Dokumentation
+## BaSyx Security Plugin (PRODUCTION)
 
 {% hint style="info" %}
 Das Plugin musste einmal im MOCK und einmal im PRODUCTION modus geschrieben werden, da einige Funktionen mit echten API-Abfragen nicht funktioniert haben. Deshalb wurden auch zwei verschiedene Dokumente erstellt.

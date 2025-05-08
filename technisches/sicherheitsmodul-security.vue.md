@@ -5,7 +5,15 @@ icon: lock-keyhole
 
 # Sicherheitsmodul (MOCK)
 
-## BaSyx Security Plugin Frontend - Dokumentation
+## BaSyx Security Plugin (MOCK)
+
+{% hint style="info" %}
+Das Plugin musste einmal im MOCK und einmal im PRODUCTION modus geschrieben werden, da einige Funktionen mit echten API-Abfragen nicht funktioniert haben. Deshalb wurden auch zwei verschiedene Dokumente erstellt.
+{% endhint %}
+
+[sicherheitsmodul-production.md](sicherheitsmodul-production.md "mention")&#x20;
+
+[sicherheitsmodul-security.vue.md](sicherheitsmodul-security.vue.md "mention") (Dieses Dokument)
 
 ### 1. Einführung
 
