@@ -4,6 +4,7 @@ icon: lock-keyhole
 ---
 
 # Sicherheitsmodul (PRODUCTION)
+
 ## BaSyx Security Plugin Frontend – Dokumentation
 
 ### 1. Einführung
@@ -32,7 +33,9 @@ Die Hauptansicht des Security Plugins besteht aus:
 
 #### Screenshots
 
-<figure><img src="../.gitbook/assets/ui.png" alt=""><figcaption><p>Hauptansicht des Plugins im Dark- und Light-Mode</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Die Hauptansicht der UI</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-08 at 12-10-37 AAS UI.png" alt=""><figcaption><p>Ein Beispiel für die API Call Logs</p></figcaption></figure>
 
 #### 2.2 Such- und Filterfunktionen
 
@@ -81,7 +84,7 @@ Beim Erstellen neuer Regeln bietet das System:
 * Validierung der Eingabefelder mit Fehlermeldungen
 * Multi-Select für Aktionen (READ, WRITE, DELETE, EXECUTE)
 * Unterstützung für mehrere Ziel-IDs (eine pro Zeile)
-* Wildcard-Unterstützung mit "*" für alle Instanzen eines Typs
+* Wildcard-Unterstützung mit "\*" für alle Instanzen eines Typs
 
 #### 3.3 Regeln bearbeiten
 
