@@ -45,3 +45,11 @@ Unabhängig von der Umgebung können beide Umgebungen über den Ordner `/aas-web
     ```bash
     yarn dev
     ```
+
+#### 2. Starten mit bootstrap.sh
+
+**In `/mock` bzw. `/production` wechseln:**
+
+```
+sh bootstrap.sh
+```
