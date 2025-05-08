@@ -7,8 +7,14 @@ icon: lock-keyhole
 
 ## BaSyx Security Plugin (MOCK)
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Das Plugin musste einmal im MOCK und einmal im PRODUCTION modus geschrieben werden, da einige Funktionen mit echten API-Abfragen nicht funktioniert haben. Deshalb wurden auch zwei verschiedene Dokumente erstellt.
+{% endhint %}
+
+{% hint style="info" %}
+Die API-Calls können aufgrund eines BaSyx-Bugs nicht gemacht werden.
+
+Dazu wurde bereits ein [Issue](https://github.com/eclipse-basyx/basyx-java-server-sdk/issues/707) auf dem passenden Repository erstellt.
 {% endhint %}
 
 [sicherheitsmodul-production.md](sicherheitsmodul-production.md "mention")&#x20;

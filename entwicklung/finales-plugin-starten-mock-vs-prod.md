@@ -14,6 +14,12 @@ Diese Anleitung beschreibt, wie man das Projekt für Mock- und Produktionsumgebu
 
 Die Mockup-Umgebung wird für Demonstrations- und Entwicklungszwecke genutzt. In dieser Umgebung werden **keine API-Calls** an externe Server durchgeführt. Stattdessen werden gemockte Daten lokal in einem Array gespeichert und verwendet. Dies ermöglicht eine einfache und schnelle Simulation ohne Abhängigkeit von einer Backend-API.
 
+{% hint style="info" %}
+Die API-Calls können aufgrund eines BaSyx-Bugs nicht gemacht werden.
+
+Dazu wurde bereits ein [Issue](https://github.com/eclipse-basyx/basyx-java-server-sdk/issues/707) auf dem passenden Repository erstellt.
+{% endhint %}
+
 #### **Produktionsumgebung (/production)**
 
 Die Produktionsumgebung ist für den realen Einsatz vorgesehen. In dieser Umgebung werden echte **API-Calls** an das Backend durchgeführt, um mit echten Daten zu arbeiten. Diese Umgebung ist für Live-Betrieb und praxisnahe Tests gedacht.
