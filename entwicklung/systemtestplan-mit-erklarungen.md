@@ -2,6 +2,7 @@
 description: >-
   Überarbeitete Version des Systemtestplans mit Erklärungen und Schritt für
   Schritt Anleitungen für die einzelnen Tests.
+hidden: true
 icon: flask-vial
 ---
 
