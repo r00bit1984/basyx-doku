@@ -26,7 +26,7 @@
 
 ## Technisches
 
-* [Sicherheitsmodul (Security.vue)](technisches/sicherheitsmodul-security.vue.md)
+* [Sicherheitsmodul (MOCK)](technisches/sicherheitsmodul-security.vue.md)
 * [Funktionelles Hosting](technisches/funktionelles-hosting.md)
 
 ## Rechtlich
