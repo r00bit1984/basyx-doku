@@ -7,18 +7,26 @@ icon: lock-keyhole
 
 ## BaSyx Security Plugin Frontend – Dokumentation
 
+{% hint style="info" %}
+Das Plugin musste einmal im MOCK und einmal im PRODUCTION modus geschrieben werden, da einige Funktionen mit echten API-Abfragen nicht funktioniert haben. Deshalb wurden auch zwei verschiedene Dokumente erstellt.
+{% endhint %}
+
+[sicherheitsmodul-production.md](sicherheitsmodul-production.md "mention") (Dieses Dokument)
+
+[sicherheitsmodul-security.vue.md](sicherheitsmodul-security.vue.md "mention")
+
 ### 1. Einführung
 
-Das BaSyx Security Plugin Frontend ist eine auf Vue.js basierende Benutzeroberfläche, die in das BaSyx Web UI integriert ist. Es ermöglicht die Verwaltung von Sicherheitsregeln für BaSyx-Komponenten über eine intuitive grafische Oberfläche. Das Plugin kommuniziert mit dem BaSyx-Backend, um Regeln aus dem Security Submodel zu lesen und zu ändern.
+Das BaSyx Security Plugin Frontend ist eine Vue.js-basierte Benutzeroberfläche, die in das BaSyx Web UI integriert wird. Es ermöglicht die Verwaltung von Sicherheitsregeln für BaSyx-Komponenten über eine intuitive grafische Oberfläche. Das Plugin kommuniziert mit dem BaSyx-Backend, um Regeln aus dem Security Submodel zu lesen und zu modifizieren.
 
 #### 1.1 Hauptfunktionen
 
-* **Vorhandene Sicherheitsregeln anzeigen**: Tabellenansicht aller definierten Regeln im System
-* **Neue Regeln erstellen**: Benutzerfreundliches Formular zur Definition von Zugriffsregeln
-* **Vorhandene Regeln bearbeiten**: Aktualisierung von Regelparametern ohne Neuerstellung
-* **Regeln löschen**: Entfernen veralteter Regeln mit Bestätigungsdialog
-* **Suchen und filtern**: Suchen und Filtern von Regeln nach verschiedenen Kriterien
-* **API-Protokollierung**: Detaillierte Protokollierung aller API-Aufrufe zur Fehleranalyse
+* **Anzeige bestehender Sicherheitsregeln**: Übersichtliche Darstellung aller im System definierten Regeln
+* **Erstellung neuer Regeln**: Benutzerfreundliches Formular zur Definition von Zugriffsregeln
+* **Bearbeitung bestehender Regeln**: Aktualisierung von Regelparametern ohne Neuanlage
+* **Löschung von Regeln**: Entfernen nicht mehr benötigter Regeln mit Bestätigungsdialog
+* **Suche und Filterung**: Durchsuchen und Filtern von Regeln nach verschiedenen Kriterien
+* **API-Logging**: Detaillierte Protokollierung aller API-Aufrufe für Debugging-Zwecke
 
 ### 2. Benutzeroberfläche
 

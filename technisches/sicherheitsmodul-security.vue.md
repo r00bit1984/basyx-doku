@@ -3,7 +3,7 @@ description: Dokumentation über das BaSyx-Modul 'Security'
 icon: lock-keyhole
 ---
 
-# Sicherheitsmodul (Security.vue)
+# Sicherheitsmodul (MOCK)
 
 ## BaSyx Security Plugin Frontend - Dokumentation
 
@@ -33,7 +33,7 @@ Die Hauptansicht des Security Plugins besteht aus folgenden Elementen:
 
 #### Screenshots
 
-<figure><img src="../.gitbook/assets/ui.png" alt=""><figcaption><p>Die Hauptansicht des Plugins im Dark- und Lightmode</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Die Hauptansicht der (MOCK)-UI</p></figcaption></figure>
 
 #### 2.2 Such- und Filterfunktionen
 
@@ -82,7 +82,7 @@ Beim Erstellen neuer Regeln bietet das System:
 * Validierung der Eingabefelder mit Fehlermeldungen
 * Mehrfachauswahl von Aktionen (READ, WRITE, DELETE, EXECUTE)
 * Unterstützung für mehrere Target-IDs (eine pro Zeile)
-* Wildcard-Unterstützung mit "*" für alle Instanzen eines Typs
+* Wildcard-Unterstützung mit "\*" für alle Instanzen eines Typs
 
 #### 3.3 Regeln bearbeiten
 
