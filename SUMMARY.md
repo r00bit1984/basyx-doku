@@ -10,6 +10,7 @@
 ## Analyse
 
 * [Lastenheft](analyse/lastenheft.md)
+* [SIR Systemintegrationsreport](analyse/sir-systemintegrationsreport.md)
 * [Meetings](analyse/meetings.md)
 
 ## Grundlegende Informationen
