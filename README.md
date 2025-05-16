@@ -8,13 +8,12 @@ icon: house
 
 ## Teilnehmer (Team 1)
 
-* Felix U.
-* Tobias W.
-* Moritz G.
-* Lukas G.
-* Francesco I.
-* Jannik Z.
-* Robert L.
-* Jhilmar P.
+* Felix U. ([https://github.com/fpuhlig](https://github.com/fpuhlig))
+* Tobias W. ([https://github.com/Wieedie](https://github.com/Wieedie))
+* Moritz G. ([https://github.com/mo7921](https://github.com/mo7921))
+* Lukas G. ([https://github.com/thgagi](https://github.com/thgagi))
+* Francesco I. ([https://github.com/frani1611](https://github.com/frani1611))
+* Jannik Z. ([https://github.com/Jannik7777](https://github.com/Jannik7777))
+* Robert L. ([https://github.com/r00bit1984](https://github.com/r00bit1984))
 
 GitHub-Repo: [https://github.com/DHBW-TINF23F/Team1-BaSyx-Security-Plugin](https://github.com/DHBW-TINF23F/Team1-BaSyx-Security-Plugin)
