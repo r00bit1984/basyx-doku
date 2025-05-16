@@ -59,7 +59,7 @@ Das Plugin kommuniziert über folgende Schnittstellen:
 #### 4.2 Authentifizierungsdienst
 
 * Integration mit externem Authentifizierungsdienst (URL: http://localhost:9097/admin/master/console/#/BaSyx)
-* Rollenbasierter Zugriff auf Systemressourcen
+* Regelbasierter Zugriff auf Systemressourcen
 
 #### 4.3 UI-Komponenten
 
