@@ -1,8 +1,9 @@
 ---
+hidden: true
 icon: file-circle-check
 ---
 
-# Richtlinien
+# Richtlinien (WIP)
 
 ## Sprache
 

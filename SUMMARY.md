@@ -3,7 +3,6 @@
 ## Home
 
 * [Basyx Security Plugin](README.md)
-* [Informationen zur Umsetzung](home/informationen-zur-umsetzung.md)
 * [Organisation](organisation.md)
 * [Richtlinien (WIP)](home/richtlinien-wip.md)
 
@@ -12,6 +11,7 @@
 * [Lastenheft](analyse/lastenheft.md)
 * [SIR Systemintegrationsreport](analyse/sir-systemintegrationsreport.md)
 * [Meetings](analyse/meetings.md)
+* [Informationen zur Umsetzung](analyse/informationen-zur-umsetzung.md)
 
 ## Grundlegende Informationen
 

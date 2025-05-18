@@ -129,7 +129,7 @@ icon: handshake
 
 **Wichtiges zum festhalten:**
 
-* siehe [diese Seite](../home/informationen-zur-umsetzung.md)
+* siehe [diese Seite](informationen-zur-umsetzung.md)
 
 **Agenda:**
 

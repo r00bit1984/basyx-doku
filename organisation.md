@@ -16,7 +16,3 @@ Es wird ein Kanban-Board auf GitHub erstellt. Hierbei werden die Spalten "Todo",
 ### Issues
 
 Die einzelnen Einträge in dem Kanban-Board sind jeweils auch GitHub Issues.&#x20;
-
-### Milestones (siehe Projektplanung)
-
-Des Weiteren wurde sich dafür entschieden für größere Ziele Milestones (auch auf GitHub) zu verwenden. Mit Hilfe von Milestones kann eine Deadline gesetzt werden, ab der größere Projektziele abgeschlossen sein sollen.

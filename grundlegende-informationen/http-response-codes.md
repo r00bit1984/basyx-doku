@@ -5,6 +5,10 @@ icon: browser
 
 # HTTP Response Codes
 
+{% hint style="info" %}
+Zuständiger: Robert L.
+{% endhint %}
+
 #### **1xx - Informational**
 
 * **100 Continue**: Die Anfrage wurde empfangen, der Client kann fortfahren
