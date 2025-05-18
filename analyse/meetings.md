@@ -361,8 +361,7 @@ Agenda:
 | Anfang / Einleitung | Jannik |
 | Erstinstallation | Felix |
 | Anforderungen Rentschler | Lukas |
-| Weitere Fragen <br> 1) Wie greifen wir auf die angemeldete Rolle zu also wie wissen wir wer angemeldet ist (Beispiel bicycle manufacture: Wie wissen wir ob Frame, Gear oder Manufacturer angemeldet ist)? <br> 2) Zu 1: Wie empfangen wir die Berechtigungen zu den Rollen (was aktuell erlaubt ist)? <br> 3) Welche Felder können wir bearbeiten (in der Rolle) (z.B. Name, Beschreibung, etc?)? <br> 4) Kurze Erklärung zu Body von API Anfrage
-| Felix |
+| Weitere Fragen <br> 1) Wie greifen wir auf die angemeldete Rolle zu also wie wissen wir wer angemeldet ist (Beispiel bicycle manufacture: Wie wissen wir ob Frame, Gear oder Manufacturer angemeldet ist)? <br> 2) Zu 1: Wie empfangen wir die Berechtigungen zu den Rollen (was aktuell erlaubt ist)? <br> 3) Welche Felder können wir bearbeiten (in der Rolle) (z.B. Name, Beschreibung, etc?)? <br> 4) Kurze Erklärung zu Body von API Anfrage | Felix |
 | Vllt UI vorstellen | Moritz |
 | Ende | Jannik |
 
@@ -410,8 +409,7 @@ Agenda:
 | Anfang / Einleitung | Jannik |
 | Erstinstallation | Felix |
 | Anforderungen Rentschler | Lukas |
-| Weitere Fragen <br> 1) Wie greifen wir auf die angemeldete Rolle zu also wie wissen wir wer angemeldet ist (Beispiel bicycle manufacture: Wie wissen wir ob Frame, Gear oder Manufacturer angemeldet ist)? <br> 2) Zu 1: Wie empfangen wir die Berechtigungen zu den Rollen (was aktuell erlaubt ist)? <br> 3) Welche Felder können wir bearbeiten (in der Rolle) (z.B. Name, Beschreibung, etc?)? <br> 4) Kurze Erklärung zu Body von API Anfrage
-| Felix |
+| Weitere Fragen <br> 1) Wie greifen wir auf die angemeldete Rolle zu also wie wissen wir wer angemeldet ist (Beispiel bicycle manufacture: Wie wissen wir ob Frame, Gear oder Manufacturer angemeldet ist)? <br> 2) Zu 1: Wie empfangen wir die Berechtigungen zu den Rollen (was aktuell erlaubt ist)? <br> 3) Welche Felder können wir bearbeiten (in der Rolle) (z.B. Name, Beschreibung, etc?)? <br> 4) Kurze Erklärung zu Body von API Anfrage | Felix |
 | Vllt UI vorstellen | Moritz |
 | Ende | Jannik |
 
