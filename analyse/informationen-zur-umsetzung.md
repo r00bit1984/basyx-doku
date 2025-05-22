@@ -8,6 +8,10 @@ icon: info
 
 # Informationen zur Umsetzung
 
+{% hint style="info" %}
+Verantwortlicher: R. Limberger
+{% endhint %}
+
 ## Informationen für die Umsetzung
 
 * **RBAC** (Role Based Access Control) ist auf zwei Wegen umsetzbar

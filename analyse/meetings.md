@@ -5,9 +5,13 @@ icon: handshake
 
 # Meetings
 
+{% hint style="info" %}
+Verantwortlicher: R. Limberger
+{% endhint %}
+
 ## Meeting #1 (18.10.)
 
-**Nächstes Meeting:**&#x20;
+**Nächstes Meeting:**
 
 * Mo 21.10. (16.30 Uhr online)
 
@@ -19,7 +23,7 @@ icon: handshake
 
 * Fragen klären:
   * UI wie ändern da in anderem repo
-  * wie wiki -> entweder public oder pro -> wird abgeklärt, erstmal extern machen
+  * Wie wiki -> entweder public oder pro -> wird abgeklärt, erstmal extern machen
   * wo Beispieldaten zum testen -> angefragt
 * Docker besprechen
 * Gemachtes vorstellen:
@@ -30,11 +34,11 @@ icon: handshake
 
 ## Meeting #2 (21.10.)
 
-**Nächstes Meeting:**&#x20;
+**Nächstes Meeting:**
 
 * Fr 25.10.
 
-**Fragen:**&#x20;
+**Fragen:**
 
 * Wie mit Wiki auf GitHub?
 * Wo Beispieldaten um Basyx zu testen?
@@ -191,298 +195,283 @@ Agenda:
 
 * anliegende Aufgaben besprechen
 
-
 ## Meeting #10 (21.03.)
 
-**Nächstes Meeting:**  
+**Nächstes Meeting:**
 
-* Fr 28.03.  
+* Fr 28.03.
 
-**Wichtiges zum Festhalten:**  
+**Wichtiges zum Festhalten:**
 
-* Link zu Keycloak machen → Import/Export ist dann da → MOD 2 fällt weg  
-* Log vielleicht im Endmodus drinlassen  
-* Buttons zusammenrücken  
-* Demohosting: Rentschler fragt Fraunhofer  
-* Bild in UI / Logo hinzufügen  
-* UI auf Englisch umstellen  
-* API können wir nicht überprüfen  
-* Projekt in anderen Branch packen → sie kümmern sich darum  
-* Unsere Dokumentation an die Doku von denen anlehnen  
-  * In Doku Link auf Source Code  
-  * Wir selbst Fork aufmachen → DHBW TINF 23F  
+* Link zu Keycloak machen → Import/Export ist dann da → MOD 2 fällt weg
+* Log vielleicht im Endmodus drinlassen
+* Buttons zusammenrücken
+* Demohosting: Rentschler fragt Fraunhofer
+* Bild in UI / Logo hinzufügen
+* UI auf Englisch umstellen
+* API können wir nicht überprüfen
+* Projekt in anderen Branch packen → sie kümmern sich darum
+* Unsere Dokumentation an die Doku von denen anlehnen
+  * In Doku Link auf Source Code
+  * Wir selbst Fork aufmachen → DHBW TINF 23F
 
-**Fragen für nächstes Mal:**  
+**Fragen für nächstes Mal:**
 
-*  
+*
 
-**Agenda:**  
+**Agenda:**
 
-* Fragen klären  
-* Alle auf selben Stand bringen  
+* Fragen klären
+* Alle auf selben Stand bringen
 * Anstehende Aufgaben besprechen
-
 
 ## Meeting #11 (28.03)
 
-**Nächstes Meeting:**  
+**Nächstes Meeting:**
 
-* Fr 04.04.  
+* Fr 04.04.
 
-**Wichtiges zum Festhalten:**  
+**Wichtiges zum Festhalten:**
 
-* Alle Rollen aus Keycloak sollen zur Auswahl bei einer neuen Rolle angegeben werden  
-* Konfigdatei Keycloak  
-* Aaron fragen, ob es zielführend ist, zu ergänzen, dass beim Authenticator Server-Link direkt darauf zugegriffen wird  
-* API-Logs sollen drin bleiben und ausklappbar sein  
-* Veranstaltungsserie Verwaltungsschale in Arena  
-* Wir können 10 Minuten unser Plugin präsentieren  
-* In der Theoriephase in einem Monat kann die Abschlusspräsentation geübt werden  
+* Alle Rollen aus Keycloak sollen zur Auswahl bei einer neuen Rolle angegeben werden
+* Konfigdatei Keycloak
+* Aaron fragen, ob es zielführend ist, zu ergänzen, dass beim Authenticator Server-Link direkt darauf zugegriffen wird
+* API-Logs sollen drin bleiben und ausklappbar sein
+* Veranstaltungsserie Verwaltungsschale in Arena
+* Wir können 10 Minuten unser Plugin präsentieren
+* In der Theoriephase in einem Monat kann die Abschlusspräsentation geübt werden
 
-**Fragen für nächstes Mal:**  
+**Fragen für nächstes Mal:**
 
-*  
+*
 
-**Agenda:**  
+**Agenda:**
 
-* Fragen klären  
-* Alle auf denselben Stand bringen  
+* Fragen klären
+* Alle auf denselben Stand bringen
 * Anstehende Aufgaben besprechen
-
 
 ## Meeting #12 (02.04)
 
-**Nächstes Meeting:**  
+**Nächstes Meeting:**
 
-* Fr 04.04.  
+* Fr 04.04.
 
-**Wichtiges zum Festhalten:**  
+**Wichtiges zum Festhalten:**
 
-* Jhilmar macht MOD1  
-* Felix macht MOD3  
-* Aaron wegen Mac angeschrieben, wahrscheinlich Meeting nächste Woche  
+* Jhilmar macht MOD1
+* Felix macht MOD3
+* Aaron wegen Mac angeschrieben, wahrscheinlich Meeting nächste Woche
 
-**Fragen für nächstes Mal:**  
+**Fragen für nächstes Mal:**
 
-* Fragen, ob nur Jhilmar und Felix programmieren sollen, weil sie viel weniger Zeit ins Projekt gesteckt haben als die anderen  
+* Fragen, ob nur Jhilmar und Felix programmieren sollen, weil sie viel weniger Zeit ins Projekt gesteckt haben als die anderen
 
-**Agenda:**  
+**Agenda:**
 
-* Fragen klären  
-* Alle auf selben Stand bringen  
+* Fragen klären
+* Alle auf selben Stand bringen
 * Anstehende Aufgaben besprechen
-
 
 ## Meeting #13 (04.04)
 
-**Nächstes Meeting:**  
+**Nächstes Meeting:**
 
-* Fr 11.04.  
+* Fr 11.04.
 
-**Wichtiges zum Festhalten:**  
+**Wichtiges zum Festhalten:**
 
-* Backlog erstellt  
+* Backlog erstellt
 
-**Fragen für nächstes Mal:**  
+**Fragen für nächstes Mal:**
 
-*  
+*
 
-**Agenda:**  
+**Agenda:**
 
-* Fragen klären  
-* Alle auf selben Stand bringen  
+* Fragen klären
+* Alle auf selben Stand bringen
 * Anstehende Aufgaben besprechen
-
 
 ## Meeting #14 (11.04.)
 
-**Nächstes Meeting:**  
+**Nächstes Meeting:**
 
-* Do 17.04.  
+* Do 17.04.
 
-**Wichtiges zum Festhalten:**  
+**Wichtiges zum Festhalten:**
 
-* Meeting mit Aaron am 17.  
-* Jeder braucht ein Dokument, wo nur er drin steht  
-* Bei Entwicklern reicht Code, aber Hinweis in MODs, wo Code steht  
-* Ordentliche Code-Dokumentation wichtig → Benotung Felix  
-* Keycloak soll auf Keycloak Instanz zeigen  
-* Bei Einstellungsrad Link zu Keycloak hinzufügen → leeres Feld hinzufügen  
-* Nicht "Keycloak", sondern "Authentifizierungsserver" in UI schreiben → mit Aaron klären  
-* Advanced Settings immer anzeigen  
-* In UI anzeigen, ob aktiv oder inaktiv  
-* Permissions-Spalte in UI rein  
-* Sortieren nach bestimmtem (z.B. Admin, aktiv/nicht aktiv oder nach Permissions)  
-* Codepal.ai probieren für Dokumentation  
-* Funktionale Anforderungen SRS für UI  
+* Meeting mit Aaron am 17.
+* Jeder braucht ein Dokument, wo nur er drin steht
+* Bei Entwicklern reicht Code, aber Hinweis in MODs, wo Code steht
+* Ordentliche Code-Dokumentation wichtig → Benotung Felix
+* Keycloak soll auf Keycloak Instanz zeigen
+* Bei Einstellungsrad Link zu Keycloak hinzufügen → leeres Feld hinzufügen
+* Nicht "Keycloak", sondern "Authentifizierungsserver" in UI schreiben → mit Aaron klären
+* Advanced Settings immer anzeigen
+* In UI anzeigen, ob aktiv oder inaktiv
+* Permissions-Spalte in UI rein
+* Sortieren nach bestimmtem (z.B. Admin, aktiv/nicht aktiv oder nach Permissions)
+* Codepal.ai probieren für Dokumentation
+* Funktionale Anforderungen SRS für UI
 
-**SRS:**  
-* Interaktionsdialog → Wireframe  
-* Funktionen zergliedern, Funktionalitäten beschreiben  
-* Bedienkonzept beschreiben  
-* Authentication Server beschreiben  
+**SRS:**
 
-**Integration Backend:**  
-* Braucht Bezugspunkt → den anzeigen  
-* Auf welchem Server/Verwaltungsschalen läuft das Plugin → anzeigen  
-* Success Message zurückgeben  
+* Interaktionsdialog → Wireframe
+* Funktionen zergliedern, Funktionalitäten beschreiben
+* Bedienkonzept beschreiben
+* Authentication Server beschreiben
 
-**Weitere Punkte:**  
-* Ausformulieren von Usecases in SRS ok, aber nicht ideal  
-* Ökosystem in Doku darstellen (CRS) grafisch → einfaches UML Deployment Diagramm  
+**Integration Backend:**
 
-**Fragen für nächstes Mal:**  
+* Braucht Bezugspunkt → den anzeigen
+* Auf welchem Server/Verwaltungsschalen läuft das Plugin → anzeigen
+* Success Message zurückgeben
 
-*  
+**Weitere Punkte:**
 
-**Agenda:**  
+* Ausformulieren von Usecases in SRS ok, aber nicht ideal
+* Ökosystem in Doku darstellen (CRS) grafisch → einfaches UML Deployment Diagramm
 
-* Fragen klären  
-* Alle auf selben Stand bringen  
-* Anstehende Aufgaben besprechen  
-* Planning Poker  
+**Fragen für nächstes Mal:**
+
+*
+
+**Agenda:**
+
+* Fragen klären
+* Alle auf selben Stand bringen
+* Anstehende Aufgaben besprechen
+* Planning Poker
 * Einteilung Workload Jhilmar
-
 
 ## Meeting #15 (16.04)
 
-**Nächstes Meeting:**  
+**Nächstes Meeting:**
 
-* Do 17.04.  
+* Do 17.04.
 
-**Wichtiges zum Festhalten:**  
+**Wichtiges zum Festhalten:**
 
-* 9.45 Uhr alle DHBW sein, Raum 3.04  
+* 9.45 Uhr alle DHBW sein, Raum 3.04
 
-**Agenda Meeting Aaron:**  
+**Agenda Meeting Aaron:**
 
-| Thema | Verantwortlicher |
-|---|---|
-| Anfang / Einleitung | Jannik |
-| Erstinstallation | Felix |
-| Anforderungen Rentschler | Lukas |
-| Weitere Fragen <br> 1) Wie greifen wir auf die angemeldete Rolle zu also wie wissen wir wer angemeldet ist (Beispiel bicycle manufacture: Wie wissen wir ob Frame, Gear oder Manufacturer angemeldet ist)? <br> 2) Zu 1: Wie empfangen wir die Berechtigungen zu den Rollen (was aktuell erlaubt ist)? <br> 3) Welche Felder können wir bearbeiten (in der Rolle) (z.B. Name, Beschreibung, etc?)? <br> 4) Kurze Erklärung zu Body von API Anfrage | Felix |
-| Vllt UI vorstellen | Moritz |
-| Ende | Jannik |
+| Thema                                                                                                                                                                                                                                                                                                                                                                                                                                             | Verantwortlicher |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| Anfang / Einleitung                                                                                                                                                                                                                                                                                                                                                                                                                               | Jannik           |
+| Erstinstallation                                                                                                                                                                                                                                                                                                                                                                                                                                  | Felix            |
+| Anforderungen Rentschler                                                                                                                                                                                                                                                                                                                                                                                                                          | Lukas            |
+| <p>Weitere Fragen<br>1) Wie greifen wir auf die angemeldete Rolle zu also wie wissen wir wer angemeldet ist (Beispiel bicycle manufacture: Wie wissen wir ob Frame, Gear oder Manufacturer angemeldet ist)?<br>2) Zu 1: Wie empfangen wir die Berechtigungen zu den Rollen (was aktuell erlaubt ist)?<br>3) Welche Felder können wir bearbeiten (in der Rolle) (z.B. Name, Beschreibung, etc?)?<br>4) Kurze Erklärung zu Body von API Anfrage</p> | Felix            |
+| Vllt UI vorstellen                                                                                                                                                                                                                                                                                                                                                                                                                                | Moritz           |
+| Ende                                                                                                                                                                                                                                                                                                                                                                                                                                              | Jannik           |
 
-**Fragen für nächstes Mal:**  
+**Fragen für nächstes Mal:**
 
-*  
+*
 
-**Agenda:**  
+**Agenda:**
 
-* Fragen klären  
-* Alle auf selben Stand bringen  
-* Anstehende Aufgaben besprechen  
+* Fragen klären
+* Alle auf selben Stand bringen
+* Anstehende Aufgaben besprechen
 * Meeting 17 planen
-
 
 ## Meeting #16 (17.04.)
 
-**Nächstes Meeting:**  
+**Nächstes Meeting:**
 
-* Fr 02.05.  
+* Fr 02.05.
 
-**Wichtiges zum Festhalten:**  
+**Wichtiges zum Festhalten:**
 
-* Issue-Ticket erstellen → in unserer Dokumentation verlinken  
-* Keycloak Import / Export fällt weg, alle anderen Punkte sind valide  
-* Für uns egal, ob Beispiel läuft oder nicht → UI muss mit Security Submodel editieren können  
-* Nur Frontend implementieren  
-* API Endpoint ansprechen → senden / empfangen  
-* Zugriff auf Submodels: gibt implementierte Clients → verwenden, da ist Tokenmanagement drin, Beispiele Arena 2036 Submodel leitet Aaron weiter per E-Mail  
-* Regeln in Submodel → API speichert es ab  
-* Rollen in Keycloak → Export über Keycloak möglich  
-* Rollen alles in Keycloak, in BaSyx Regeln auf eine Rolle → wir anpassen im Frontend  
-* Anfrage an Backend wegen Rollen → wir Auswahl an Regeln, die hinzugefügt werden  
-* Rolle wird gegeben, Action machen wir, Target-Information  
-* Gibt Variante ohne Security Submodel, aber zur Laufzeit keine Regeln anpassbar → Vorkonfiguration, wollen wir nicht haben  
+* Issue-Ticket erstellen → in unserer Dokumentation verlinken
+* Keycloak Import / Export fällt weg, alle anderen Punkte sind valide
+* Für uns egal, ob Beispiel läuft oder nicht → UI muss mit Security Submodel editieren können
+* Nur Frontend implementieren
+* API Endpoint ansprechen → senden / empfangen
+* Zugriff auf Submodels: gibt implementierte Clients → verwenden, da ist Tokenmanagement drin, Beispiele Arena 2036 Submodel leitet Aaron weiter per E-Mail
+* Regeln in Submodel → API speichert es ab
+* Rollen in Keycloak → Export über Keycloak möglich
+* Rollen alles in Keycloak, in BaSyx Regeln auf eine Rolle → wir anpassen im Frontend
+* Anfrage an Backend wegen Rollen → wir Auswahl an Regeln, die hinzugefügt werden
+* Rolle wird gegeben, Action machen wir, Target-Information
+* Gibt Variante ohne Security Submodel, aber zur Laufzeit keine Regeln anpassbar → Vorkonfiguration, wollen wir nicht haben
 
-**Fragen für nächstes Mal:**  
+**Fragen für nächstes Mal:**
 
-*  
+*
 
-**Agenda:**  
+**Agenda:**
 
-| Thema | Verantwortlicher |
-|---|---|
-| Anfang / Einleitung | Jannik |
-| Erstinstallation | Felix |
-| Anforderungen Rentschler | Lukas |
-| Weitere Fragen <br> 1) Wie greifen wir auf die angemeldete Rolle zu also wie wissen wir wer angemeldet ist (Beispiel bicycle manufacture: Wie wissen wir ob Frame, Gear oder Manufacturer angemeldet ist)? <br> 2) Zu 1: Wie empfangen wir die Berechtigungen zu den Rollen (was aktuell erlaubt ist)? <br> 3) Welche Felder können wir bearbeiten (in der Rolle) (z.B. Name, Beschreibung, etc?)? <br> 4) Kurze Erklärung zu Body von API Anfrage | Felix |
-| Vllt UI vorstellen | Moritz |
-| Ende | Jannik |
-
+| Thema                                                                                                                                                                                                                                                                                                                                                                                                                                             | Verantwortlicher |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| Anfang / Einleitung                                                                                                                                                                                                                                                                                                                                                                                                                               | Jannik           |
+| Erstinstallation                                                                                                                                                                                                                                                                                                                                                                                                                                  | Felix            |
+| Anforderungen Rentschler                                                                                                                                                                                                                                                                                                                                                                                                                          | Lukas            |
+| <p>Weitere Fragen<br>1) Wie greifen wir auf die angemeldete Rolle zu also wie wissen wir wer angemeldet ist (Beispiel bicycle manufacture: Wie wissen wir ob Frame, Gear oder Manufacturer angemeldet ist)?<br>2) Zu 1: Wie empfangen wir die Berechtigungen zu den Rollen (was aktuell erlaubt ist)?<br>3) Welche Felder können wir bearbeiten (in der Rolle) (z.B. Name, Beschreibung, etc?)?<br>4) Kurze Erklärung zu Body von API Anfrage</p> | Felix            |
+| Vllt UI vorstellen                                                                                                                                                                                                                                                                                                                                                                                                                                | Moritz           |
+| Ende                                                                                                                                                                                                                                                                                                                                                                                                                                              | Jannik           |
 
 ## Meeting #17 (02.05)
 
-**Nächstes Meeting:**  
+**Nächstes Meeting:**
 
-* Fr 15.05.  
+* Fr 15.05.
 
-**Wichtiges zum Festhalten:**  
+**Wichtiges zum Festhalten:**
 
-* SRS:  
-  * UC 1 und 2 Rollen in Regeln umbenennen und schauen, dass der Rest passt  
-  * UC 3 löschen  
-  * UC 3 neu → Protokollierung der API Aktivitäten  
-  * FRS1 löschen  
-  * FRS 2 bis 4 Rolle in Regel umbenennen und schauen, dass der Rest passt  
-  * FRS 5 löschen  
-  * FRS 5 neu → zu API Zeug (UC 3) machen  
-  * REQ Policies in Regeln (Rules) umbenennen und komplett überarbeiten (wir haben nicht verstanden, was im Abschnitt angesprochen wird)  
-  * NF Rollen streichen  
-  * Bei REQ und NF vllt noch Erfolgskriterium hinzufügen → nachschauen, ob es benötigt wird  
-* CRS:  
-  * Analog zu SRS  
-  * BP 1 und 3 löschen  
-  * BP 2 dementsprechend überarbeiten  
-  * UC, REQ, NF analog zu SRS  
-* UI:  
-  * Wie mit mehreren Einträgen für selbe Rolle?  
-  * Neue Einträge werden nach unten gesetzt  
-  * Automatisch sortieren bei Hinzufügen  
-  * Ein- und ausklappbar machen  
-  * Filter / Suche einführen  
+* SRS:
+  * UC 1 und 2 Rollen in Regeln umbenennen und schauen, dass der Rest passt
+  * UC 3 löschen
+  * UC 3 neu → Protokollierung der API Aktivitäten
+  * FRS1 löschen
+  * FRS 2 bis 4 Rolle in Regel umbenennen und schauen, dass der Rest passt
+  * FRS 5 löschen
+  * FRS 5 neu → zu API Zeug (UC 3) machen
+  * REQ Policies in Regeln (Rules) umbenennen und komplett überarbeiten (wir haben nicht verstanden, was im Abschnitt angesprochen wird)
+  * NF Rollen streichen
+  * Bei REQ und NF vllt noch Erfolgskriterium hinzufügen → nachschauen, ob es benötigt wird
+* CRS:
+  * Analog zu SRS
+  * BP 1 und 3 löschen
+  * BP 2 dementsprechend überarbeiten
+  * UC, REQ, NF analog zu SRS
+* UI:
+  * Wie mit mehreren Einträgen für selbe Rolle?
+  * Neue Einträge werden nach unten gesetzt
+  * Automatisch sortieren bei Hinzufügen
+  * Ein- und ausklappbar machen
+  * Filter / Suche einführen
 
-**Fragen für nächstes Mal:**  
+**Fragen für nächstes Mal:**
 
-* Soll es so sein, dass im SRS genau dasselbe steht wie im CRS, ohne was hinzuzufügen (siehe REQ, NF)?  
+* Soll es so sein, dass im SRS genau dasselbe steht wie im CRS, ohne was hinzuzufügen (siehe REQ, NF)?
 
-**Agenda:**  
+**Agenda:**
 
-* Fragen klären  
-* Alle auf selben Stand bringen  
-* Anstehende Aufgaben besprechen  
+* Fragen klären
+* Alle auf selben Stand bringen
+* Anstehende Aufgaben besprechen
 * CRS / SRS Überarbeitung planen
-
 
 ## Meeting #18 (15.05)
 
-**Nächstes Meeting:**  
+**Nächstes Meeting:**
 
-*  
+*
 
-**Wichtiges zum Festhalten:**  
+**Wichtiges zum Festhalten:**
 
-* Präsentation am 23, Projekt soll am 22 fertig sein  
+* Präsentation am 23, Projekt soll am 22 fertig sein
 
-**Fragen für nächstes Mal:**  
+**Fragen für nächstes Mal:**
 
-* Kosten Hosting  
+* Kosten Hosting
 
-**Agenda:**  
+**Agenda:**
 
-* Fragen klären  
-* alle auf selben Stand bringen  
-* anstehende Aufgaben besprechen  
+* Fragen klären
+* alle auf selben Stand bringen
+* anstehende Aufgaben besprechen
 * Präsentation besprechen
-
-
-
-
-
-
-
-
-
