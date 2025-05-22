@@ -47,7 +47,7 @@ Die Hauptansicht des Security Plugins besteht aus folgenden Elementen:
 
 #### Screenshots
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Die Hauptansicht der (MOCK)-UI</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Die Hauptansicht des Plugins</p></figcaption></figure>
 
 #### 2.2 Such- und Filterfunktionen
 
@@ -83,6 +83,8 @@ Das Plugin enthält drei Hauptdialoge:
 Das Plugin lädt automatisch alle vorhandenen Sicherheitsregeln aus dem Security Submodel und zeigt sie in einer übersichtlichen Tabelle an:
 
 * **Rule ID Short**: Automatisch generierte ID (Base64-kodiert)
+  * Diese kann mit einer "Hover"-Funktion komplett angezeigt werden
+  * Diese kann mit einem "Kopieren"-Button in die Zwischenablage kopiert werden
 * **Target Role**: Die Zielrolle, für die die Regel gilt
 * **Actions**: Erlaubte Aktionen (READ, WRITE, DELETE, EXECUTE)
 * **Target Type**: Typ der Zielressource (AAS, Submodel, etc.)

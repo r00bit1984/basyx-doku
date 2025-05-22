@@ -29,7 +29,7 @@ icon: info
 * [Dokumentation für die API](http://localhost:8081/swagger-ui/index.html)
 * [RBAC Wiki](https://wiki.basyx.org/en/latest/content/user_documentation/basyx_components/v2/submodel_repository/features/authorization.html)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Schema des RBAC in Basyx</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Schema des RBAC in Basyx</p></figcaption></figure>
 
 ### JSON configs in ein Submodel übersetzen
 

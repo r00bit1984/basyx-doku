@@ -50,7 +50,7 @@ Die Hauptansicht des Security Plugins besteht aus:
 
 #### Screenshots
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Die Hauptansicht der UI</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Die Hauptansicht der UI</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-05-08 at 12-10-37 AAS UI.png" alt=""><figcaption><p>Ein Beispiel für die API Call Logs</p></figcaption></figure>
 
