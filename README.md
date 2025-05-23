@@ -12,6 +12,12 @@ Nutzer\*innen des Plugins gehen bitte auf folgende [Benutzerdokumentation](https
 
 ***
 
+## Entwicklung
+
+Entwicklung für das PROD Plugin ist pausiert aufgrund eines BaSyx-Backend Bugs. Hierzu wurde bereits ein [Issue](https://github.com/eclipse-basyx/basyx-java-server-sdk/issues/707) im der BaSyx Repo erstellt.&#x20;
+
+Mehr Infos zu MOCK und PROD [hier](entwicklung/finales-plugin-starten-mock-vs-prod.md).
+
 ## Teilnehmer (Team 1)
 
 * Felix U. ([https://github.com/fpuhlig](https://github.com/fpuhlig))
