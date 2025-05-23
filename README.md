@@ -6,6 +6,12 @@ icon: house
 
 # Basyx Security Plugin
 
+{% hint style="success" %}
+Nutzer\*innen des Plugins gehen bitte auf folgende [Benutzerdokumentation](https://basyx-security-plugin.gitbook.io/basyx-security-plugin-nutzerdokumentation).
+{% endhint %}
+
+***
+
 ## Teilnehmer (Team 1)
 
 * Felix U. ([https://github.com/fpuhlig](https://github.com/fpuhlig))
